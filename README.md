@@ -34,3 +34,11 @@ An estimate, not billing. It projects from steps, sizes, and tiers; it cannot re
 ## License
 
 MIT
+
+---
+
+Part of the **[claude-code-skills](https://github.com/Zavelinski/claude-code-skills)** collection: a one-line [Claude Code](https://claude.com/claude-code) plugin marketplace of focused skills, plugins, and MCP servers.
+
+```
+/plugin marketplace add Zavelinski/claude-code-skills
+```
