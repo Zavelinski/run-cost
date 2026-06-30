@@ -1,0 +1,19 @@
+{
+  "name": "run-cost",
+  "version": "0.1.0",
+  "description": "Pre-flight token/cost estimate for a whole task or workflow before you run it: projects agent count x model tier x context size, and proposes a cheaper shape. Task-level, complements prompt-level token tools.",
+  "author": {
+    "name": "Gabriel Zavelinski"
+  },
+  "homepage": "https://github.com/Zavelinski/run-cost",
+  "repository": "https://github.com/Zavelinski/run-cost",
+  "license": "MIT",
+  "keywords": [
+    "tokens",
+    "cost",
+    "budget",
+    "estimate",
+    "workflow",
+    "claude-code"
+  ]
+}
